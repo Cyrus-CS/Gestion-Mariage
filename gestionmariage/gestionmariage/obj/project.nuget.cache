@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u4ALTrdYZS8dAZVdQKo1ms1mlhgLWS+yo84yqnXsok6jrRYwXE24mBQZW6dZOhm7xxQwsFyGvvuoUX5aY39fWw==",
+  "success": true,
+  "projectFilePath": "F:\\gestionmariage\\gestionmariage\\gestionmariage.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emery\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\emery\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\emery\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\emery\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
